@@ -1,0 +1,2 @@
+/* minimal, damit der Import nicht crasht */
+html, body, #root { height: 100%; margin: 0; }
